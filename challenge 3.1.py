@@ -17,8 +17,8 @@ def sort_students(student_list):
 
 # Example usage:
 students = [
-    Student("Naveen", "A123", 7.8),
-    Student("Kumar", "A124", 8.9),
+    Student("keerthika", "A123", 7.8),
+    Student("raasi", "A124", 8.9),
     Student("Krithika", "A125", 9.1),
     Student("Siva", "A126", 9.9),
 ]
